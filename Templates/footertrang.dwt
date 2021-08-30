@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html><!-- InstanceBegin template="/Templates/noidung.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>apolo</title>
-<!-- InstanceEndEditable -->
-<link rel="stylesheet" href="css/mainstyle.css" type="text/css">
-<link rel="stylesheet" href="css/thu%20vien%20luoi.css" type="text/css">
-<link rel="stylesheet" href="css/hover.css" type="text/css">
-<link rel="stylesheet" href="css/all.min.css" type="text/css">
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/mainstyle.css" type="text/css">
+<link rel="stylesheet" href="../css/thu vien luoi.css" type="text/css">
+<link rel="stylesheet" href="../css/hover.css" type="text/css">
+<link rel="stylesheet" href="../css/all.min.css" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 <body>
 	
@@ -20,7 +20,7 @@
 	<div class="wrap">
 		<div class="menupage">
 			<div class="header">
-			<a href="index.html" class="logo"><img src="img/logo.png" ></a>
+			<a href="../index.html" class="logo"><img src="../img/logo.png" ></a>
 			<div class="menu icon">
 				<a class="none" href="#" style="font-size:1.7vw">Chính sách</a>
 				<a class="none" href="#" style="font-size:1.7vw">Thông báo</a>
@@ -31,15 +31,15 @@
 			<div class="container">
 				<section class="sec1">
 				<div class="row py-150">
-					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="program.html" ><img src="img/chuongtrinh.png"><br>CHƯƠNG TRÌNH</a></div></div>
-					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="img/lichsu.png"><br>LỊCH SỬ</a></div></div>
-					<div class="col-2 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="img/vé.png"><br>VÉ</a></div></div>
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="../program.html" ><img src="../img/chuongtrinh.png"><br>CHƯƠNG TRÌNH</a></div></div>
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/lichsu.png"><br>LỊCH SỬ</a></div></div>
+					<div class="col-2 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/vé.png"><br>VÉ</a></div></div>
 					
 				</div>
 					<div class="row py-150">
-					<div class="col-2 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="img/lich.png"><br>LỊCH</a></div></div>
-					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="img/lienhe.png"><br>LIÊN HỆ</a></div></div>
-					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="img/chungtoi.png"><br>VỀ CHÚNG TÔI</a></div></div>
+					<div class="col-2 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/lich.png"><br>LỊCH</a></div></div>
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/lienhe.png"><br>LIÊN HỆ</a></div></div>
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/chungtoi.png"><br>VỀ CHÚNG TÔI</a></div></div>
 					
 				</div>
 			  </section>
@@ -48,7 +48,7 @@
 	  <div class="footer">
     <div class="container">
       <div class="row">
-        <div class="col-3 col-s-4 col-ss-10"><a href="index.html"><img src="img/logo1.png"></a>
+        <div class="col-3 col-s-4 col-ss-10"><a href="../index.html"><img src="../img/logo1.png"></a>
           <p>182 Trần Hưng Đạo, Phường 10, <br>
             Quận Gò Vấp,Thành Phố Hồ Chí Minh. 
             Cơ quan văn hóa của 
@@ -91,26 +91,14 @@
 	
 	
 	
-	<div class="wrap"><!-- InstanceBeginEditable name="main" -->
-	 <div class="home">
-		<div class="header">
-			<a href="index.html" class="logo"><img src="img/logo.png" ></a>
-			<div class="menu icon" >
-				<a href="#"><i class="fa fa-search" ></i></a> 
-				<a onclick="openNav()"><i class="fa fa-bars"></i></a>
-				
-			</div>
-		</div>
-		
-			
-		
-		
-	</div>
-	<!-- InstanceEndEditable -->
-	  <div class="footer">
+	<div class="wrap">
+<!-- TemplateBeginEditable name="noidung" -->
+<main></main>
+<!-- TemplateEndEditable -->
+<div class="footer4">
     <div class="container">
       <div class="row">
-        <div class="col-3 col-s-4 col-ss-10"><a href="index.html"><img src="img/logo1.png"></a>
+        <div class="col-3 col-s-4 col-ss-10"><a href="../index.html"><img src="../img/logo2.png"></a>
           <p>182 Trần Hưng Đạo, Phường 10, <br>
             Quận Gò Vấp,Thành Phố Hồ Chí Minh. 
             Cơ quan văn hóa của 
@@ -124,19 +112,19 @@
         </div>
         <div class="col-4 col-s-4 col-ss-10 mx-20">
           <h3>BẢN TIN</h3>
-          <input class="email" type="email" placeholder="Your e-mail" name="email" >
+          <input class="email4" type="search" placeholder="Your e-mail" name="email" >
           <br>
-          <input class="checkbox " type="checkbox"  name="agree" value="none">
+          <input class="checkbox " type="checkbox" name="agree" value="none">
           <label for="agree" style="font-size:14px">Tôi muốn nhận bản tin chứa thông tin về nhà hát</label>
 			
         </div>
-		  <div class="col-2 col-s-4 col-ss-7 ">
-						<p class="d-flex justify-content-space-between icon">
+		  <div class="col-2 col-s-4 col-ss-7">
+						<p class="d-flex justify-content-space-between icon4">
 				 <a href="#" class="hvr-grow-shadow"><i class="fab fa-twitter " ></i></a>
  				 <a href="#" class="hvr-grow-shadow"><i class="fab fa-facebook-f " ></i></a>
 				<a href="#" class="hvr-grow-shadow"><i class="fab fa-instagram " ></i></a>
 				</p>
-				<p class="text-center mx-20" style="font-size:16px">Trang web của APOLLO</p></div>
+				<p class="text-center  mx-20" style="font-size:16px">Trang web của APOLLO</p></div>
       </div>
     </div>
   </div>
@@ -194,4 +182,4 @@ function closeNav() {
         });
     </script>
 </body>
-<!-- InstanceEnd --></html>
+</html>
